@@ -1,0 +1,1654 @@
+[
+  {
+    "name": "requests",
+    "tags": [
+      "HTTP",
+      "客户端"
+    ]
+  },
+  {
+    "name": "urllib3",
+    "tags": [
+      "HTTP",
+      "客户端"
+    ]
+  },
+  {
+    "name": "httpx",
+    "tags": [
+      "HTTP",
+      "异步",
+      "客户端"
+    ]
+  },
+  {
+    "name": "aiohttp",
+    "tags": [
+      "HTTP",
+      "异步"
+    ]
+  },
+  {
+    "name": "httpcore",
+    "tags": [
+      "HTTP",
+      "异步"
+    ]
+  },
+  {
+    "name": "h11",
+    "tags": [
+      "HTTP",
+      "协议"
+    ]
+  },
+  {
+    "name": "anyio",
+    "tags": [
+      "异步",
+      "并发"
+    ]
+  },
+  {
+    "name": "sniffio",
+    "tags": [
+      "异步"
+    ]
+  },
+  {
+    "name": "multidict",
+    "tags": [
+      "HTTP",
+      "数据结构"
+    ]
+  },
+  {
+    "name": "yarl",
+    "tags": [
+      "URL",
+      "解析"
+    ]
+  },
+  {
+    "name": "frozenlist",
+    "tags": [
+      "数据结构"
+    ]
+  },
+  {
+    "name": "idna",
+    "tags": [
+      "编码",
+      "国际化"
+    ]
+  },
+  {
+    "name": "chardet",
+    "tags": [
+      "编码",
+      "字符集"
+    ]
+  },
+  {
+    "name": "charset-normalizer",
+    "tags": [
+      "编码",
+      "字符集"
+    ]
+  },
+  {
+    "name": "certifi",
+    "tags": [
+      "TLS",
+      "证书"
+    ]
+  },
+  {
+    "name": "Flask",
+    "tags": [
+      "Web框架",
+      "WSGI"
+    ]
+  },
+  {
+    "name": "Werkzeug",
+    "tags": [
+      "WSGI",
+      "工具库"
+    ]
+  },
+  {
+    "name": "Jinja2",
+    "tags": [
+      "模板引擎"
+    ]
+  },
+  {
+    "name": "MarkupSafe",
+    "tags": [
+      "安全",
+      "模板"
+    ]
+  },
+  {
+    "name": "click",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "itsdangerous",
+    "tags": [
+      "安全",
+      "签名"
+    ]
+  },
+  {
+    "name": "blinker",
+    "tags": [
+      "事件",
+      "信号"
+    ]
+  },
+  {
+    "name": "Django",
+    "tags": [
+      "Web框架",
+      "ORM"
+    ]
+  },
+  {
+    "name": "djangorestframework",
+    "tags": [
+      "Web框架",
+      "REST"
+    ]
+  },
+  {
+    "name": "django-cors-headers",
+    "tags": [
+      "Web",
+      "CORS"
+    ]
+  },
+  {
+    "name": "django-filter",
+    "tags": [
+      "Web",
+      "查询"
+    ]
+  },
+  {
+    "name": "django-environ",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "FastAPI",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "starlette",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "uvicorn",
+    "tags": [
+      "服务器",
+      "ASGI"
+    ]
+  },
+  {
+    "name": "gunicorn",
+    "tags": [
+      "服务器",
+      "WSGI"
+    ]
+  },
+  {
+    "name": "waitress",
+    "tags": [
+      "服务器",
+      "WSGI"
+    ]
+  },
+  {
+    "name": "tornado",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "sanic",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "quart",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "Bottle",
+    "tags": [
+      "Web框架",
+      "WSGI"
+    ]
+  },
+  {
+    "name": "web.py",
+    "tags": [
+      "Web框架"
+    ]
+  },
+  {
+    "name": "aiofiles",
+    "tags": [
+      "文件",
+      "异步"
+    ]
+  },
+  {
+    "name": "beautifulsoup4",
+    "tags": [
+      "HTML",
+      "解析",
+      "爬虫"
+    ]
+  },
+  {
+    "name": "bs4",
+    "tags": [
+      "HTML",
+      "解析"
+    ]
+  },
+  {
+    "name": "lxml",
+    "tags": [
+      "XML",
+      "HTML",
+      "解析"
+    ]
+  },
+  {
+    "name": "html5lib",
+    "tags": [
+      "HTML",
+      "解析"
+    ]
+  },
+  {
+    "name": "pyquery",
+    "tags": [
+      "HTML",
+      "解析"
+    ]
+  },
+  {
+    "name": "feedparser",
+    "tags": [
+      "RSS",
+      "解析"
+    ]
+  },
+  {
+    "name": "Scrapy",
+    "tags": [
+      "爬虫",
+      "Web"
+    ]
+  },
+  {
+    "name": "selenium",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "name": "playwright",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "name": "pyppeteer",
+    "tags": [
+      "浏览器自动化",
+      "爬虫"
+    ]
+  },
+  {
+    "name": "pytest",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "pytest-cov",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "pytest-asyncio",
+    "tags": [
+      "测试",
+      "异步"
+    ]
+  },
+  {
+    "name": "pytest-xdist",
+    "tags": [
+      "测试",
+      "并行"
+    ]
+  },
+  {
+    "name": "pytest-mock",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "name": "pytest-timeout",
+    "tags": [
+      "测试"
+    ]
+  },
+  {
+    "name": "coverage",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "hypothesis",
+    "tags": [
+      "测试",
+      "属性测试"
+    ]
+  },
+  {
+    "name": "freezegun",
+    "tags": [
+      "测试",
+      "时间"
+    ]
+  },
+  {
+    "name": "responses",
+    "tags": [
+      "测试",
+      "HTTP Mock"
+    ]
+  },
+  {
+    "name": "moto",
+    "tags": [
+      "测试",
+      "云服务 Mock"
+    ]
+  },
+  {
+    "name": "tox",
+    "tags": [
+      "测试",
+      "虚拟环境"
+    ]
+  },
+  {
+    "name": "nox",
+    "tags": [
+      "测试",
+      "自动化"
+    ]
+  },
+  {
+    "name": "unittest2",
+    "tags": [
+      "测试"
+    ]
+  },
+  {
+    "name": "mock",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "name": "black",
+    "tags": [
+      "格式化",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "isort",
+    "tags": [
+      "导入排序",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "ruff",
+    "tags": [
+      "Lint",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "flake8",
+    "tags": [
+      "Lint",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "pylint",
+    "tags": [
+      "Lint",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "autopep8",
+    "tags": [
+      "格式化",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "mypy",
+    "tags": [
+      "类型检查"
+    ]
+  },
+  {
+    "name": "pyright",
+    "tags": [
+      "类型检查"
+    ]
+  },
+  {
+    "name": "pre-commit",
+    "tags": [
+      "Git",
+      "钩子"
+    ]
+  },
+  {
+    "name": "SQLAlchemy",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "SQLModel",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "Alembic",
+    "tags": [
+      "数据库迁移"
+    ]
+  },
+  {
+    "name": "psycopg2-binary",
+    "tags": [
+      "数据库驱动",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "psycopg",
+    "tags": [
+      "数据库驱动",
+      "PostgreSQL",
+      "异步"
+    ]
+  },
+  {
+    "name": "asyncpg",
+    "tags": [
+      "数据库驱动",
+      "PostgreSQL",
+      "异步"
+    ]
+  },
+  {
+    "name": "PyMySQL",
+    "tags": [
+      "数据库驱动",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "mysqlclient",
+    "tags": [
+      "数据库驱动",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "aiomysql",
+    "tags": [
+      "数据库驱动",
+      "MySQL",
+      "异步"
+    ]
+  },
+  {
+    "name": "sqlite-utils",
+    "tags": [
+      "数据库",
+      "SQLite"
+    ]
+  },
+  {
+    "name": "Peewee",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "pony",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "dataset",
+    "tags": [
+      "数据库",
+      "工具库"
+    ]
+  },
+  {
+    "name": "records",
+    "tags": [
+      "数据库",
+      "SQL"
+    ]
+  },
+  {
+    "name": "pymongo",
+    "tags": [
+      "NoSQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "motor",
+    "tags": [
+      "NoSQL",
+      "MongoDB",
+      "异步"
+    ]
+  },
+  {
+    "name": "redis",
+    "tags": [
+      "NoSQL",
+      "Redis",
+      "缓存"
+    ]
+  },
+  {
+    "name": "fakeredis",
+    "tags": [
+      "NoSQL",
+      "Redis",
+      "测试"
+    ]
+  },
+  {
+    "name": "hiredis",
+    "tags": [
+      "NoSQL",
+      "Redis",
+      "协议"
+    ]
+  },
+  {
+    "name": "pydantic",
+    "tags": [
+      "数据校验",
+      "序列化"
+    ]
+  },
+  {
+    "name": "pydantic-core",
+    "tags": [
+      "数据校验",
+      "核心"
+    ]
+  },
+  {
+    "name": "marshmallow",
+    "tags": [
+      "序列化",
+      "校验"
+    ]
+  },
+  {
+    "name": "attrs",
+    "tags": [
+      "类",
+      "工具库"
+    ]
+  },
+  {
+    "name": "dataclasses",
+    "tags": [
+      "标准库",
+      "数据类"
+    ]
+  },
+  {
+    "name": "numpy",
+    "tags": [
+      "科学计算",
+      "数组"
+    ]
+  },
+  {
+    "name": "pandas",
+    "tags": [
+      "数据分析",
+      "表格"
+    ]
+  },
+  {
+    "name": "polars",
+    "tags": [
+      "数据分析",
+      "列式"
+    ]
+  },
+  {
+    "name": "pyarrow",
+    "tags": [
+      "列式存储",
+      "大数据"
+    ]
+  },
+  {
+    "name": "scipy",
+    "tags": [
+      "科学计算",
+      "算法"
+    ]
+  },
+  {
+    "name": "scikit-learn",
+    "tags": [
+      "机器学习",
+      "算法"
+    ]
+  },
+  {
+    "name": "scikit-image",
+    "tags": [
+      "图像处理",
+      "算法"
+    ]
+  },
+  {
+    "name": "matplotlib",
+    "tags": [
+      "可视化",
+      "绘图"
+    ]
+  },
+  {
+    "name": "seaborn",
+    "tags": [
+      "可视化",
+      "统计"
+    ]
+  },
+  {
+    "name": "plotly",
+    "tags": [
+      "可视化",
+      "交互"
+    ]
+  },
+  {
+    "name": "bokeh",
+    "tags": [
+      "可视化",
+      "交互"
+    ]
+  },
+  {
+    "name": "xarray",
+    "tags": [
+      "科学计算",
+      "多维数组"
+    ]
+  },
+  {
+    "name": "numba",
+    "tags": [
+      "JIT",
+      "科学计算"
+    ]
+  },
+  {
+    "name": "sympy",
+    "tags": [
+      "符号计算",
+      "数学"
+    ]
+  },
+  {
+    "name": "statsmodels",
+    "tags": [
+      "统计",
+      "模型"
+    ]
+  },
+  {
+    "name": "openpyxl",
+    "tags": [
+      "Excel",
+      "Office"
+    ]
+  },
+  {
+    "name": "xlrd",
+    "tags": [
+      "Excel",
+      "解析"
+    ]
+  },
+  {
+    "name": "xlsxwriter",
+    "tags": [
+      "Excel",
+      "Office"
+    ]
+  },
+  {
+    "name": "reportlab",
+    "tags": [
+      "PDF",
+      "文档"
+    ]
+  },
+  {
+    "name": "pypdf",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "PyPDF2",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "pdfplumber",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "fpdf2",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "python-docx",
+    "tags": [
+      "Word",
+      "文档"
+    ]
+  },
+  {
+    "name": "Pillow",
+    "tags": [
+      "图像处理",
+      "图片"
+    ]
+  },
+  {
+    "name": "opencv-python",
+    "tags": [
+      "图像处理",
+      "计算机视觉"
+    ]
+  },
+  {
+    "name": "imageio",
+    "tags": [
+      "图像",
+      "IO"
+    ]
+  },
+  {
+    "name": "scikit-image",
+    "tags": [
+      "图像处理",
+      "算法"
+    ]
+  },
+  {
+    "name": "torch",
+    "tags": [
+      "深度学习",
+      "张量"
+    ]
+  },
+  {
+    "name": "torchvision",
+    "tags": [
+      "深度学习",
+      "计算机视觉"
+    ]
+  },
+  {
+    "name": "tensorflow",
+    "tags": [
+      "深度学习",
+      "机器学习"
+    ]
+  },
+  {
+    "name": "keras",
+    "tags": [
+      "深度学习",
+      "机器学习"
+    ]
+  },
+  {
+    "name": "transformers",
+    "tags": [
+      "自然语言处理",
+      "模型"
+    ]
+  },
+  {
+    "name": "tokenizers",
+    "tags": [
+      "自然语言处理",
+      "分词"
+    ]
+  },
+  {
+    "name": "accelerate",
+    "tags": [
+      "深度学习",
+      "训练"
+    ]
+  },
+  {
+    "name": "datasets",
+    "tags": [
+      "数据集",
+      "机器学习"
+    ]
+  },
+  {
+    "name": "xgboost",
+    "tags": [
+      "机器学习",
+      "梯度提升"
+    ]
+  },
+  {
+    "name": "lightgbm",
+    "tags": [
+      "机器学习",
+      "梯度提升"
+    ]
+  },
+  {
+    "name": "catboost",
+    "tags": [
+      "机器学习",
+      "梯度提升"
+    ]
+  },
+  {
+    "name": "shap",
+    "tags": [
+      "机器学习",
+      "可解释性"
+    ]
+  },
+  {
+    "name": "jax",
+    "tags": [
+      "深度学习",
+      "自动微分"
+    ]
+  },
+  {
+    "name": "jaxlib",
+    "tags": [
+      "深度学习",
+      "运行时"
+    ]
+  },
+  {
+    "name": "gymnasium",
+    "tags": [
+      "强化学习",
+      "环境"
+    ]
+  },
+  {
+    "name": "stable-baselines3",
+    "tags": [
+      "强化学习",
+      "算法"
+    ]
+  },
+  {
+    "name": "networkx",
+    "tags": [
+      "图算法",
+      "网络"
+    ]
+  },
+  {
+    "name": "nltk",
+    "tags": [
+      "自然语言处理",
+      "文本"
+    ]
+  },
+  {
+    "name": "spacy",
+    "tags": [
+      "自然语言处理",
+      "文本"
+    ]
+  },
+  {
+    "name": "gensim",
+    "tags": [
+      "自然语言处理",
+      "主题模型"
+    ]
+  },
+  {
+    "name": "langchain",
+    "tags": [
+      "自然语言处理",
+      "Agent"
+    ]
+  },
+  {
+    "name": "langchain-core",
+    "tags": [
+      "自然语言处理",
+      "核心"
+    ]
+  },
+  {
+    "name": "openai",
+    "tags": [
+      "AI",
+      "API客户端"
+    ]
+  },
+  {
+    "name": "anthropic",
+    "tags": [
+      "AI",
+      "API客户端"
+    ]
+  },
+  {
+    "name": "tiktoken",
+    "tags": [
+      "分词",
+      "AI"
+    ]
+  },
+  {
+    "name": "cryptography",
+    "tags": [
+      "加密",
+      "安全"
+    ]
+  },
+  {
+    "name": "pycryptodome",
+    "tags": [
+      "加密",
+      "安全"
+    ]
+  },
+  {
+    "name": "bcrypt",
+    "tags": [
+      "密码哈希",
+      "安全"
+    ]
+  },
+  {
+    "name": "passlib",
+    "tags": [
+      "密码哈希",
+      "安全"
+    ]
+  },
+  {
+    "name": "PyJWT",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "name": "python-jose",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "name": "oauthlib",
+    "tags": [
+      "OAuth",
+      "安全"
+    ]
+  },
+  {
+    "name": "requests-oauthlib",
+    "tags": [
+      "OAuth",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "google-auth",
+    "tags": [
+      "OAuth",
+      "认证"
+    ]
+  },
+  {
+    "name": "authlib",
+    "tags": [
+      "OAuth",
+      "认证"
+    ]
+  },
+  {
+    "name": "python-dotenv",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "dynaconf",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "pydantic-settings",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "pyyaml",
+    "tags": [
+      "YAML",
+      "解析"
+    ]
+  },
+  {
+    "name": "tomli",
+    "tags": [
+      "TOML",
+      "解析"
+    ]
+  },
+  {
+    "name": "tomli-w",
+    "tags": [
+      "TOML",
+      "生成"
+    ]
+  },
+  {
+    "name": "orjson",
+    "tags": [
+      "JSON",
+      "高性能"
+    ]
+  },
+  {
+    "name": "ujson",
+    "tags": [
+      "JSON",
+      "高性能"
+    ]
+  },
+  {
+    "name": "python-rapidjson",
+    "tags": [
+      "JSON",
+      "高性能"
+    ]
+  },
+  {
+    "name": "msgpack",
+    "tags": [
+      "序列化",
+      "二进制"
+    ]
+  },
+  {
+    "name": "protobuf",
+    "tags": [
+      "序列化",
+      "RPC"
+    ]
+  },
+  {
+    "name": "grpcio",
+    "tags": [
+      "RPC",
+      "gRPC"
+    ]
+  },
+  {
+    "name": "grpcio-tools",
+    "tags": [
+      "RPC",
+      "代码生成"
+    ]
+  },
+  {
+    "name": "thrift",
+    "tags": [
+      "RPC",
+      "序列化"
+    ]
+  },
+  {
+    "name": "avro",
+    "tags": [
+      "序列化",
+      "大数据"
+    ]
+  },
+  {
+    "name": "paho-mqtt",
+    "tags": [
+      "MQTT",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "aio-mqtt",
+    "tags": [
+      "MQTT",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "pika",
+    "tags": [
+      "AMQP",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "kombu",
+    "tags": [
+      "消息队列",
+      "AMQP"
+    ]
+  },
+  {
+    "name": "celery",
+    "tags": [
+      "任务队列",
+      "异步"
+    ]
+  },
+  {
+    "name": "kafka-python",
+    "tags": [
+      "Kafka",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "confluent-kafka",
+    "tags": [
+      "Kafka",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "aiokafka",
+    "tags": [
+      "Kafka",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "pulsar-client",
+    "tags": [
+      "消息队列",
+      "流计算"
+    ]
+  },
+  {
+    "name": "nats-py",
+    "tags": [
+      "消息队列",
+      "NATS"
+    ]
+  },
+  {
+    "name": "pyzmq",
+    "tags": [
+      "消息队列",
+      "ZeroMQ"
+    ]
+  },
+  {
+    "name": "websockets",
+    "tags": [
+      "WebSocket",
+      "网络"
+    ]
+  },
+  {
+    "name": "boto3",
+    "tags": [
+      "云服务",
+      "AWS"
+    ]
+  },
+  {
+    "name": "botocore",
+    "tags": [
+      "云服务",
+      "AWS"
+    ]
+  },
+  {
+    "name": "google-cloud-storage",
+    "tags": [
+      "云存储",
+      "GCP"
+    ]
+  },
+  {
+    "name": "google-api-python-client",
+    "tags": [
+      "API客户端",
+      "GCP"
+    ]
+  },
+  {
+    "name": "azure-storage-blob",
+    "tags": [
+      "云存储",
+      "Azure"
+    ]
+  },
+  {
+    "name": "azure-identity",
+    "tags": [
+      "认证",
+      "Azure"
+    ]
+  },
+  {
+    "name": "kubernetes",
+    "tags": [
+      "云原生",
+      "Kubernetes"
+    ]
+  },
+  {
+    "name": "docker",
+    "tags": [
+      "容器",
+      "Docker"
+    ]
+  },
+  {
+    "name": "paramiko",
+    "tags": [
+      "SSH",
+      "网络"
+    ]
+  },
+  {
+    "name": "fabric",
+    "tags": [
+      "运维",
+      "SSH"
+    ]
+  },
+  {
+    "name": "ansible",
+    "tags": [
+      "运维",
+      "自动化"
+    ]
+  },
+  {
+    "name": "psutil",
+    "tags": [
+      "系统信息",
+      "监控"
+    ]
+  },
+  {
+    "name": "pyinstaller",
+    "tags": [
+      "打包",
+      "可执行文件"
+    ]
+  },
+  {
+    "name": "virtualenv",
+    "tags": [
+      "虚拟环境",
+      "工具"
+    ]
+  },
+  {
+    "name": "pipenv",
+    "tags": [
+      "依赖管理",
+      "虚拟环境"
+    ]
+  },
+  {
+    "name": "poetry-core",
+    "tags": [
+      "依赖管理",
+      "构建"
+    ]
+  },
+  {
+    "name": "hatchling",
+    "tags": [
+      "构建",
+      "打包"
+    ]
+  },
+  {
+    "name": "setuptools",
+    "tags": [
+      "构建",
+      "打包"
+    ]
+  },
+  {
+    "name": "wheel",
+    "tags": [
+      "构建",
+      "打包"
+    ]
+  },
+  {
+    "name": "twine",
+    "tags": [
+      "发布",
+      "PyPI"
+    ]
+  },
+  {
+    "name": "pip-tools",
+    "tags": [
+      "依赖管理"
+    ]
+  },
+  {
+    "name": "rich",
+    "tags": [
+      "终端",
+      "格式化"
+    ]
+  },
+  {
+    "name": "textual",
+    "tags": [
+      "终端",
+      "TUI"
+    ]
+  },
+  {
+    "name": "prompt_toolkit",
+    "tags": [
+      "终端",
+      "交互"
+    ]
+  },
+  {
+    "name": "questionary",
+    "tags": [
+      "终端",
+      "交互"
+    ]
+  },
+  {
+    "name": "colorama",
+    "tags": [
+      "终端",
+      "颜色"
+    ]
+  },
+  {
+    "name": "pygments",
+    "tags": [
+      "代码高亮",
+      "终端"
+    ]
+  },
+  {
+    "name": "watchdog",
+    "tags": [
+      "文件监听",
+      "工具"
+    ]
+  },
+  {
+    "name": "tenacity",
+    "tags": [
+      "重试",
+      "容错"
+    ]
+  },
+  {
+    "name": "more-itertools",
+    "tags": [
+      "迭代器",
+      "工具库"
+    ]
+  },
+  {
+    "name": "boltons",
+    "tags": [
+      "工具库",
+      "标准库补充"
+    ]
+  },
+  {
+    "name": "humanize",
+    "tags": [
+      "格式化",
+      "工具库"
+    ]
+  },
+  {
+    "name": "python-dateutil",
+    "tags": [
+      "日期时间",
+      "解析"
+    ]
+  },
+  {
+    "name": "pytz",
+    "tags": [
+      "时区",
+      "日期时间"
+    ]
+  },
+  {
+    "name": "pendulum",
+    "tags": [
+      "日期时间",
+      "时区"
+    ]
+  },
+  {
+    "name": "arrow",
+    "tags": [
+      "日期时间",
+      "工具库"
+    ]
+  },
+  {
+    "name": "pytest-html",
+    "tags": [
+      "测试",
+      "报告"
+    ]
+  },
+  {
+    "name": "allure-pytest",
+    "tags": [
+      "测试",
+      "报告"
+    ]
+  },
+  {
+    "name": "pandas-gbq",
+    "tags": [
+      "数据分析",
+      "BigQuery"
+    ]
+  },
+  {
+    "name": "geopandas",
+    "tags": [
+      "地理信息",
+      "数据分析"
+    ]
+  },
+  {
+    "name": "shapely",
+    "tags": [
+      "地理信息",
+      "几何"
+    ]
+  },
+  {
+    "name": "fiona",
+    "tags": [
+      "地理信息",
+      "矢量"
+    ]
+  },
+  {
+    "name": "pyproj",
+    "tags": [
+      "地理信息",
+      "投影"
+    ]
+  },
+  {
+    "name": "rasterio",
+    "tags": [
+      "地理信息",
+      "栅格"
+    ]
+  },
+  {
+    "name": "folium",
+    "tags": [
+      "地图",
+      "可视化"
+    ]
+  },
+  {
+    "name": "tqdm",
+    "tags": [
+      "进度条",
+      "工具"
+    ]
+  },
+  {
+    "name": "pygame",
+    "tags": [
+      "游戏开发",
+      "多媒体"
+    ]
+  },
+  {
+    "name": "arcade",
+    "tags": [
+      "游戏开发",
+      "2D"
+    ]
+  },
+  {
+    "name": "camelot",
+    "tags": [
+      "PDF",
+      "表格提取"
+    ]
+  },
+  {
+    "name": "tabula-py",
+    "tags": [
+      "PDF",
+      "表格提取"
+    ]
+  }
+]
