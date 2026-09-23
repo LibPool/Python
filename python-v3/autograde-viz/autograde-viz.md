@@ -1,0 +1,32 @@
+# autograde-viz
+
+> 标签: Python
+
+## 简介
+
+D3 Autograding Utility
+
+## 官网
+
+- 官网：https://github.com/matthewdhull/autograde-viz
+- PyPI 项目页：https://pypi.org/project/autograde-viz/
+
+## 历史版本号
+
+- 当前版本：0.0.1.8
+
+- 0.0.1
+- 0.0.1.1
+- 0.0.1.2
+- 0.0.1.3
+- 0.0.1.4
+- 0.0.1.5
+- 0.0.1.6
+- 0.0.1.7
+- 0.0.1.8
+
+## 获取地址
+
+- pip 安装：`pip install autograde-viz`
+- 下载页面：https://pypi.org/project/autograde-viz/#files
+- 运行要求：Python >=3.11

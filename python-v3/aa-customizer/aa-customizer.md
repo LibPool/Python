@@ -1,0 +1,36 @@
+# aa-customizer
+
+> 标签: Python
+
+## 简介
+
+Branding & customization plugin for Alliance Auth — custom logos, login backgrounds, favicons, and more.
+
+## 官网
+
+- 官网：https://github.com/Thrainkrilleve/aa-customizer
+- PyPI 项目页：https://pypi.org/project/aa-customizer/
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.1.16
+- 1.1.17
+- 1.1.19
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+- 1.2.8
+- 1.3.0
+- 1.3.1
+- 共 17 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install aa-customizer`
+- 下载页面：https://pypi.org/project/aa-customizer/#files
+- 运行要求：Python >=3.10

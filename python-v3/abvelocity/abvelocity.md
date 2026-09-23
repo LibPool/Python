@@ -1,0 +1,26 @@
+# abvelocity
+
+> 标签: Python
+
+## 简介
+
+A Python package for accelerating data-driven experiments and analysis, including time-series forecasting and model selection
+
+## 官网
+
+- 官网：https://pypi.org/project/abvelocity/
+- PyPI 项目页：https://pypi.org/project/abvelocity/
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- pip 安装：`pip install abvelocity`
+- 下载页面：https://pypi.org/project/abvelocity/#files
+- 运行要求：Python <4.0,>=3.12

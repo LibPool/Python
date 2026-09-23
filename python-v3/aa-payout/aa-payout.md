@@ -1,0 +1,36 @@
+# aa-payout
+
+> 标签: Python
+
+## 简介
+
+Fleet loot valuation and payout system for Alliance Auth
+
+## 官网
+
+- 官网：https://pypi.org/project/aa-payout/
+- PyPI 项目页：https://pypi.org/project/aa-payout/
+
+## 历史版本号
+
+- 当前版本：0.3.18
+
+- 0.3.12
+- 0.3.14
+- 0.3.15
+- 0.3.16
+- 0.3.18
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.8
+- 0.3.9
+- 共 41 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install aa-payout`
+- 下载页面：https://pypi.org/project/aa-payout/#files
+- 运行要求：Python >=3.10

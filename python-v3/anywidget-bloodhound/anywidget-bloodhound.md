@@ -1,0 +1,24 @@
+# anywidget-bloodhound
+
+> 标签: Python
+
+## 简介
+
+BloodHound graph visualization for Marimo notebooks
+
+## 官网
+
+- 官网：https://pypi.org/project/anywidget-bloodhound/
+- PyPI 项目页：https://pypi.org/project/anywidget-bloodhound/
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- pip 安装：`pip install anywidget-bloodhound`
+- 下载页面：https://pypi.org/project/anywidget-bloodhound/#files
+- 运行要求：Python >=3.14

@@ -1,0 +1,36 @@
+# auspicium
+
+> 标签: Python
+
+## 简介
+
+Auspicium DaaS SDK — market data for crypto and prediction market quants
+
+## 官网
+
+- 官网：https://pypi.org/project/auspicium/
+- PyPI 项目页：https://pypi.org/project/auspicium/
+
+## 历史版本号
+
+- 当前版本：0.11.2
+
+- 0.9.18
+- 0.9.19
+- 0.9.2
+- 0.9.20
+- 0.9.21
+- 0.9.3
+- 0.9.4
+- 0.9.5
+- 0.9.6
+- 0.9.7
+- 0.9.8
+- 0.9.9
+- 共 66 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install auspicium`
+- 下载页面：https://pypi.org/project/auspicium/#files
+- 运行要求：Python >=3.11

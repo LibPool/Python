@@ -1,0 +1,29 @@
+# aicore-cloudword
+
+> 标签: Python
+
+## 简介
+
+A simple package to generate wordclouds from Google Sheets
+
+## 官网
+
+- 官网：https://pypi.org/project/aicore-cloudword/
+- PyPI 项目页：https://pypi.org/project/aicore-cloudword/
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- pip 安装：`pip install aicore-cloudword`
+- 下载页面：https://pypi.org/project/aicore-cloudword/#files
+- 运行要求：Python >=3.6

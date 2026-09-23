@@ -1,0 +1,24 @@
+# a7son-lib
+
+> 标签: Python
+
+## 简介
+
+a7son-lib - Python library from PyPI
+
+## 官网
+
+- 官网：https://pypi.org/project/a7son-lib/
+- PyPI 项目页：https://pypi.org/project/a7son-lib/
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- pip 安装：`pip install a7son-lib`
+- 下载页面：https://pypi.org/project/a7son-lib/#files
+- 运行要求：Python <4.0,>=3.10

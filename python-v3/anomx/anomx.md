@@ -1,0 +1,37 @@
+# anomx
+
+> 标签: Python
+
+## 简介
+
+Installable time-series anomaly library with forecasting, reconstruction, and representation base approaches.
+
+## 官网
+
+- 官网：https://www.anomx.io
+- 源码仓库：https://github.com/theorieken/anomx
+- PyPI 项目页：https://pypi.org/project/anomx/
+
+## 历史版本号
+
+- 当前版本：0.2.39
+
+- 0.2.34
+- 0.2.35
+- 0.2.36
+- 0.2.37
+- 0.2.38
+- 0.2.39
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+- 共 36 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install anomx`
+- 下载页面：https://pypi.org/project/anomx/#files
+- 运行要求：Python >=3.11

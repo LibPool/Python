@@ -1,0 +1,24 @@
+# apk-signature
+
+> 标签: Python
+
+## 简介
+
+install IPA package to iOS device with command line
+
+## 官网
+
+- 官网：https://github.com/floatinghotpot/apk-signature
+- PyPI 项目页：https://pypi.org/project/apk-signature/
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- pip 安装：`pip install apk-signature`
+- 下载页面：https://pypi.org/project/apk-signature/#files
+- 运行要求：Python >=3.7

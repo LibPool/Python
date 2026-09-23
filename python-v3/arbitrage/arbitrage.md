@@ -1,0 +1,30 @@
+# arbitrage
+
+> 标签: Python
+
+## 简介
+
+Get current coin (btc/eth/xrp) ticker from exchanges (bitflyer/btcbox/zaif/bitbank/quoinex)
+
+## 官网
+
+- 官网：https://github.com/10mohi6/arbitrage-python
+- PyPI 项目页：https://pypi.org/project/arbitrage/
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- pip 安装：`pip install arbitrage`
+- 下载页面：https://pypi.org/project/arbitrage/#files

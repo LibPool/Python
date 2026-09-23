@@ -1,0 +1,30 @@
+# aero-astro-calc
+
+> 标签: Python
+
+## 简介
+
+A small python library with functions to assist engineers.
+
+## 官网
+
+- 官网：https://gitlab.com/MisterBiggs/aero-astro-calc
+- PyPI 项目页：https://pypi.org/project/aero-astro-calc/
+
+## 历史版本号
+
+- 当前版本：2020.2.0
+
+- 2019.0.1
+- 2019.0.2
+- 2019.1.0
+- 2019.1.1
+- 2019.1.2
+- 2019.1.3
+- 2020.1.0
+- 2020.2.0
+
+## 获取地址
+
+- pip 安装：`pip install aero-astro-calc`
+- 下载页面：https://pypi.org/project/aero-astro-calc/#files

@@ -1,0 +1,35 @@
+# aparecium
+
+> 标签: Python
+
+## 简介
+
+Aparecium v2: pooled MPNet embedding reversal for crypto social-media posts.
+
+## 官网
+
+- 官网：https://github.com/SentiChain/aparecium
+- PyPI 项目页：https://pypi.org/project/aparecium/
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.3.0
+- 1.0.0
+
+## 获取地址
+
+- pip 安装：`pip install aparecium`
+- 下载页面：https://pypi.org/project/aparecium/#files
+- 运行要求：Python >=3.9

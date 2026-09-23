@@ -1,0 +1,24 @@
+# 77-MyFirst-7HW7-Library-77
+
+> 标签: Python
+
+## 简介
+
+A simple Python library that prints Hello World
+
+## 官网
+
+- 官网：https://pypi.org/project/77-MyFirst-7HW7-Library-77/
+- PyPI 项目页：https://pypi.org/project/77-MyFirst-7HW7-Library-77/
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- pip 安装：`pip install 77-MyFirst-7HW7-Library-77`
+- 下载页面：https://pypi.org/project/77-MyFirst-7HW7-Library-77/#files
+- 运行要求：Python >=3.6

@@ -1,0 +1,36 @@
+# autoflow-ai
+
+> 标签: Python
+
+## 简介
+
+Framework to index and search your vector data, make your data ready for AI apps, developed by TiDB.
+
+## 官网
+
+- 官网：https://pypi.org/project/autoflow-ai/
+- PyPI 项目页：https://pypi.org/project/autoflow-ai/
+
+## 历史版本号
+
+- 当前版本：0.0.2.dev5
+
+- 0.0.1.dev33
+- 0.0.1.dev4
+- 0.0.1.dev5
+- 0.0.1.dev6
+- 0.0.1.dev7
+- 0.0.1.dev8
+- 0.0.1.dev9
+- 0.0.2.dev1
+- 0.0.2.dev2
+- 0.0.2.dev3
+- 0.0.2.dev4
+- 0.0.2.dev5
+- 共 37 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install autoflow-ai`
+- 下载页面：https://pypi.org/project/autoflow-ai/#files
+- 运行要求：Python >=3.10
