@@ -231,6 +231,7 @@ def main() -> int:
     ap.add_argument("--crawl-limit", type=int, default=60000, help="max packages to take from the simple index")
     ap.add_argument("--workers", type=int, default=32)
     ap.add_argument("--refresh-cache", action="store_true")
+    ap.add_argument("--load-cache", action="store_true", help="rebuild index from cache keys instead of seeds")
     args = ap.parse_args()
 
     root = Path(args.out).resolve()
@@ -248,6 +249,9 @@ def main() -> int:
     if args.limit:
         libs = libs[: args.limit]
     cache = load_cache()
+    if args.load_cache and not args.crawl:
+        libs = [PyLib(name=key) for key in sorted(cache)]
+        print(f"Loading {len(libs)} packages from cache...", flush=True)
     print(f"Processing {len(libs)} packages from {args.seeds}...", flush=True)
     with ThreadPoolExecutor(max_workers=args.workers) as ex:
         futures = [ex.submit(enrich, lib, cache, not args.refresh_cache) for lib in libs]
@@ -260,7 +264,7 @@ def main() -> int:
                 save_cache(cache)
                 print(f"  enriched {i}/{len(futures)}", flush=True)
     save_cache(cache)
-    counts = generate(root, libs, root)
+    counts = generate(root, libs, root / OUT_DIR)
     print("Generated:", json.dumps(counts, sort_keys=True), flush=True)
     write_python_readme(root, libs)
     return 0
