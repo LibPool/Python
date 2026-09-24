@@ -1,0 +1,24 @@
+# astrotime
+
+> 标签: Python
+
+## 简介
+
+Methods for pytorch deep learning applications
+
+## 官网
+
+- 官网：https://github.com/nasa-nccs-hpda/astrotime
+- PyPI 项目页：https://pypi.org/project/astrotime/
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- pip 安装：`pip install astrotime`
+- 下载页面：https://pypi.org/project/astrotime/#files
+- 运行要求：Python >=3.10

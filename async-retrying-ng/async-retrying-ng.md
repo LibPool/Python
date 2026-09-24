@@ -1,0 +1,27 @@
+# async-retrying-ng
+
+> 标签: Python
+
+## 简介
+
+Next Gen. simple retrying for asyncio.
+
+## 官网
+
+- 官网：https://pypi.org/project/async-retrying-ng/
+- PyPI 项目页：https://pypi.org/project/async-retrying-ng/
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- pip 安装：`pip install async-retrying-ng`
+- 下载页面：https://pypi.org/project/async-retrying-ng/#files
+- 运行要求：Python >=3.10,<4.0

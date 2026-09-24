@@ -1,0 +1,36 @@
+# aidev-agent
+
+> 标签: Python
+
+## 简介
+
+bkaidev agent builder
+
+## 官网
+
+- 官网：https://pypi.org/project/aidev-agent/
+- PyPI 项目页：https://pypi.org/project/aidev-agent/
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 2.2.2rc49
+- 2.2.2rc50
+- 2.2.2rc51
+- 2.2.2rc52
+- 2.2.2rc58
+- 2.2.3
+- 2.2.4
+- 2.4.0
+- 2.4.0rc76
+- 2.4.0rc86
+- 2.4.0rc88
+- 2.4.0rc92
+- 共 169 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install aidev-agent`
+- 下载页面：https://pypi.org/project/aidev-agent/#files
+- 运行要求：Python <3.12,>=3.11

@@ -1,0 +1,23 @@
+# amr-planner
+
+> 标签: Python
+
+## 简介
+
+amr-planner - Python library from PyPI
+
+## 官网
+
+- 官网：https://pypi.org/project/amr-planner/
+- PyPI 项目页：https://pypi.org/project/amr-planner/
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- pip 安装：`pip install amr-planner`
+- 下载页面：https://pypi.org/project/amr-planner/#files

@@ -1,0 +1,26 @@
+# aigcfile
+
+> 标签: Python
+
+## 简介
+
+File renaming, path acquisition, folder creation, file indexing and other operations.
+
+## 官网
+
+- 官网：https://gitlab.com/nuvic/2024/aigcfile
+- PyPI 项目页：https://pypi.org/project/aigcfile/
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- pip 安装：`pip install aigcfile`
+- 下载页面：https://pypi.org/project/aigcfile/#files
+- 运行要求：Python >=3.8

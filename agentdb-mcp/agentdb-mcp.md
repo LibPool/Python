@@ -1,0 +1,26 @@
+# agentdb-mcp
+
+> 标签: Python
+
+## 简介
+
+MCP server for AgentDB — give any AI agent persistent memory and observability
+
+## 官网
+
+- 官网：https://agentdb.zizka.ai
+- 源码仓库：https://github.com/Zizka-ai/agentdb
+- PyPI 项目页：https://pypi.org/project/agentdb-mcp/
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- pip 安装：`pip install agentdb-mcp`
+- 下载页面：https://pypi.org/project/agentdb-mcp/#files
+- 运行要求：Python >=3.10

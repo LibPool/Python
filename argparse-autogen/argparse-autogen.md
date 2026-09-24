@@ -1,0 +1,32 @@
+# argparse-autogen
+
+> 标签: Python
+
+## 简介
+
+Parser with automatic creation of parsers and subparsers for paths.
+
+## 官网
+
+- 官网：https://github.com/sashgorokhov/argparse-autogen
+- PyPI 项目页：https://pypi.org/project/argparse-autogen/
+
+## 历史版本号
+
+- 当前版本：1.4
+
+- 1.0
+- 1.0.1
+- 1.1
+- 1.2
+- 1.2.1
+- 1.3
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.4
+
+## 获取地址
+
+- pip 安装：`pip install argparse-autogen`
+- 下载页面：https://pypi.org/project/argparse-autogen/#files

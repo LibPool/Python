@@ -1,0 +1,24 @@
+# atomli-tako-ci
+
+> 标签: Python
+
+## 简介
+
+Tako Code Interpreter runtime with a minimal, git-distributable slice of the calculation WASM cores and model checkpoints.
+
+## 官网
+
+- 官网：https://github.com/itsuwari/tako-assets
+- PyPI 项目页：https://pypi.org/project/atomli-tako-ci/
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.2.3
+
+## 获取地址
+
+- pip 安装：`pip install atomli-tako-ci`
+- 下载页面：https://pypi.org/project/atomli-tako-ci/#files
+- 运行要求：Python >=3.8

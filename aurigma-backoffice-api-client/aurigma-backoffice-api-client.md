@@ -1,0 +1,26 @@
+# aurigma-backoffice-api-client
+
+> 标签: Python
+
+## 简介
+
+Aurigma BackOffice API client
+
+## 官网
+
+- 官网：https://pypi.org/project/aurigma-backoffice-api-client/
+- PyPI 项目页：https://pypi.org/project/aurigma-backoffice-api-client/
+
+## 历史版本号
+
+- 当前版本：2.68.1.34188
+
+- 1.0.0
+- 2.67.20.34159
+- 2.68.1.34188
+
+## 获取地址
+
+- pip 安装：`pip install aurigma-backoffice-api-client`
+- 下载页面：https://pypi.org/project/aurigma-backoffice-api-client/#files
+- 运行要求：Python >=3.9
