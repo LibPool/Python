@@ -1,0 +1,22 @@
+# venv-retarget
+
+> 标签: Python
+
+## 简介
+
+venv-retarget - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/venv-retarget/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install venv-retarget`
+- 下载页面：https://pypi.org/project/venv-retarget/#files

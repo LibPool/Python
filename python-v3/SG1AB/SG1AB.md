@@ -1,0 +1,22 @@
+# SG1AB
+
+> 标签: Python
+
+## 简介
+
+SG1AB - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/SG1AB/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install SG1AB`
+- 下载页面：https://pypi.org/project/SG1AB/#files

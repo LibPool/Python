@@ -1,4 +1,4 @@
-# authlib
+# Authlib
 
 > 标签: OAuth, 认证
 
@@ -10,7 +10,7 @@ The ultimate Python library in building OAuth and OpenID Connect servers and cli
 
 - 官网：https://pypi.org/project/Authlib/
 - 源码仓库：https://github.com/authlib/authlib
-- PyPI 项目页：https://pypi.org/project/authlib/
+- PyPI 项目页：https://pypi.org/project/Authlib/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ The ultimate Python library in building OAuth and OpenID Connect servers and cli
 
 ## 获取地址
 
-- pip 安装：`pip install authlib`
-- 下载页面：https://pypi.org/project/authlib/#files
+- pip 安装：`pip install Authlib`
+- 下载页面：https://pypi.org/project/Authlib/#files
 - 运行要求：Python >=3.10

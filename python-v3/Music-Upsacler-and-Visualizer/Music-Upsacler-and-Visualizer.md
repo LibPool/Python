@@ -1,0 +1,22 @@
+# Music-Upsacler-and-Visualizer
+
+> 标签: Python
+
+## 简介
+
+Music-Upsacler-and-Visualizer - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/Music-Upsacler-and-Visualizer/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install Music-Upsacler-and-Visualizer`
+- 下载页面：https://pypi.org/project/Music-Upsacler-and-Visualizer/#files

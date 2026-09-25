@@ -1,4 +1,4 @@
-# Alembic
+# alembic
 
 > 标签: 数据库迁移
 
@@ -10,7 +10,7 @@ A database migration tool for SQLAlchemy.
 
 - 官网：https://alembic.sqlalchemy.org
 - 源码仓库：https://github.com/sqlalchemy/alembic/
-- PyPI 项目页：https://pypi.org/project/Alembic/
+- PyPI 项目页：https://pypi.org/project/alembic/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ A database migration tool for SQLAlchemy.
 
 ## 获取地址
 
-- pip 安装：`pip install Alembic`
-- 下载页面：https://pypi.org/project/Alembic/#files
+- pip 安装：`pip install alembic`
+- 下载页面：https://pypi.org/project/alembic/#files
 - 运行要求：Python >=3.10

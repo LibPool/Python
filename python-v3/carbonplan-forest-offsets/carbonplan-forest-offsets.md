@@ -1,0 +1,22 @@
+# carbonplan-forest-offsets
+
+> 标签: Python
+
+## 简介
+
+carbonplan-forest-offsets - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/carbonplan-forest-offsets/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install carbonplan-forest-offsets`
+- 下载页面：https://pypi.org/project/carbonplan-forest-offsets/#files

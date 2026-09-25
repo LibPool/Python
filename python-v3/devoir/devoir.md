@@ -1,0 +1,22 @@
+# devoir
+
+> 标签: Python
+
+## 简介
+
+devoir - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/devoir/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install devoir`
+- 下载页面：https://pypi.org/project/devoir/#files

@@ -1,0 +1,22 @@
+# TP2-Robot-EBERMEYER-Tom
+
+> 标签: Python
+
+## 简介
+
+TP2-Robot-EBERMEYER-Tom - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/TP2-Robot-EBERMEYER-Tom/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install TP2-Robot-EBERMEYER-Tom`
+- 下载页面：https://pypi.org/project/TP2-Robot-EBERMEYER-Tom/#files

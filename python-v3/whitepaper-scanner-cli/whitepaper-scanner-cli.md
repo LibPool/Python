@@ -1,0 +1,22 @@
+# whitepaper-scanner-cli
+
+> 标签: Python
+
+## 简介
+
+whitepaper-scanner-cli - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/whitepaper-scanner-cli/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install whitepaper-scanner-cli`
+- 下载页面：https://pypi.org/project/whitepaper-scanner-cli/#files

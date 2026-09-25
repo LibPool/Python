@@ -1,0 +1,22 @@
+# talent-gate-base-x
+
+> 标签: Python
+
+## 简介
+
+talent-gate-base-x - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/talent-gate-base-x/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install talent-gate-base-x`
+- 下载页面：https://pypi.org/project/talent-gate-base-x/#files

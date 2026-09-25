@@ -1,4 +1,4 @@
-# Peewee
+# peewee
 
 > 标签: ORM, 数据库
 
@@ -10,7 +10,7 @@ a little orm
 
 - 官网：https://pypi.org/project/peewee/
 - 源码仓库：https://github.com/coleifer/peewee
-- PyPI 项目页：https://pypi.org/project/Peewee/
+- PyPI 项目页：https://pypi.org/project/peewee/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ a little orm
 
 ## 获取地址
 
-- pip 安装：`pip install Peewee`
-- 下载页面：https://pypi.org/project/Peewee/#files
+- pip 安装：`pip install peewee`
+- 下载页面：https://pypi.org/project/peewee/#files
 - 运行要求：Python >=3.8

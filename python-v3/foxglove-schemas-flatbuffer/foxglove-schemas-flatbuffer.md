@@ -1,0 +1,22 @@
+# foxglove-schemas-flatbuffer
+
+> 标签: Python
+
+## 简介
+
+foxglove-schemas-flatbuffer - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/foxglove-schemas-flatbuffer/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install foxglove-schemas-flatbuffer`
+- 下载页面：https://pypi.org/project/foxglove-schemas-flatbuffer/#files

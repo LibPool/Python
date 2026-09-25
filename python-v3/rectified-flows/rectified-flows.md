@@ -1,0 +1,22 @@
+# rectified-flows
+
+> 标签: Python
+
+## 简介
+
+rectified-flows - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/rectified-flows/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install rectified-flows`
+- 下载页面：https://pypi.org/project/rectified-flows/#files

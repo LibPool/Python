@@ -1,4 +1,4 @@
-# camelot
+# Camelot
 
 > 标签: PDF, 表格提取
 
@@ -9,7 +9,7 @@ A python GUI framework on top of Sqlalchemy and Qt, inspired by the Django admin
 ## 官网
 
 - 官网：http://www.python-camelot.com
-- PyPI 项目页：https://pypi.org/project/camelot/
+- PyPI 项目页：https://pypi.org/project/Camelot/
 
 ## 历史版本号
 
@@ -31,5 +31,5 @@ A python GUI framework on top of Sqlalchemy and Qt, inspired by the Django admin
 
 ## 获取地址
 
-- pip 安装：`pip install camelot`
-- 下载页面：https://pypi.org/project/camelot/#files
+- pip 安装：`pip install Camelot`
+- 下载页面：https://pypi.org/project/Camelot/#files

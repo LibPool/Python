@@ -1,0 +1,22 @@
+# pyembed
+
+> 标签: Python
+
+## 简介
+
+pyembed - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/pyembed/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install pyembed`
+- 下载页面：https://pypi.org/project/pyembed/#files

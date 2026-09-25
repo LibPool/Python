@@ -1,0 +1,22 @@
+# tfmpi2c-budryerson
+
+> 标签: Python
+
+## 简介
+
+tfmpi2c-budryerson - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/tfmpi2c-budryerson/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install tfmpi2c-budryerson`
+- 下载页面：https://pypi.org/project/tfmpi2c-budryerson/#files

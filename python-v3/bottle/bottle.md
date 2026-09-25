@@ -1,4 +1,4 @@
-# Bottle
+# bottle
 
 > 标签: WSGI, Web框架
 
@@ -10,7 +10,7 @@ Fast and simple WSGI-framework for small web-applications.
 
 - 官网：http://bottlepy.org/
 - 源码仓库：https://github.com/bottlepy/bottle
-- PyPI 项目页：https://pypi.org/project/Bottle/
+- PyPI 项目页：https://pypi.org/project/bottle/
 
 ## 历史版本号
 
@@ -32,5 +32,5 @@ Fast and simple WSGI-framework for small web-applications.
 
 ## 获取地址
 
-- pip 安装：`pip install Bottle`
-- 下载页面：https://pypi.org/project/Bottle/#files
+- pip 安装：`pip install bottle`
+- 下载页面：https://pypi.org/project/bottle/#files

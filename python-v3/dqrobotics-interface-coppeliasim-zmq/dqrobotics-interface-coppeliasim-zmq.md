@@ -1,0 +1,22 @@
+# dqrobotics-interface-coppeliasim-zmq
+
+> 标签: Python
+
+## 简介
+
+dqrobotics-interface-coppeliasim-zmq - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/dqrobotics-interface-coppeliasim-zmq/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install dqrobotics-interface-coppeliasim-zmq`
+- 下载页面：https://pypi.org/project/dqrobotics-interface-coppeliasim-zmq/#files

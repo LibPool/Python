@@ -1,4 +1,4 @@
-# SQLModel
+# sqlmodel
 
 > 标签: ORM, 数据库
 
@@ -9,7 +9,7 @@ SQLModel, SQL databases in Python, designed for simplicity, compatibility, and r
 ## 官网
 
 - 官网：https://github.com/fastapi/sqlmodel
-- PyPI 项目页：https://pypi.org/project/SQLModel/
+- PyPI 项目页：https://pypi.org/project/sqlmodel/
 
 ## 历史版本号
 
@@ -31,6 +31,6 @@ SQLModel, SQL databases in Python, designed for simplicity, compatibility, and r
 
 ## 获取地址
 
-- pip 安装：`pip install SQLModel`
-- 下载页面：https://pypi.org/project/SQLModel/#files
+- pip 安装：`pip install sqlmodel`
+- 下载页面：https://pypi.org/project/sqlmodel/#files
 - 运行要求：Python >=3.10

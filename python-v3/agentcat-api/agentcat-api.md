@@ -4,20 +4,17 @@
 
 ## 简介
 
-agentcat-api - Python library from PyPI
+agentcat-api - Python library from PyPI（元数据待补充）
 
 ## 官网
 
-- 官网：https://pypi.org/project/agentcat-api/
 - PyPI 项目页：https://pypi.org/project/agentcat-api/
 
 ## 历史版本号
 
-- 当前版本：1.0.2
+- 当前版本：未知
 
-- 0.0.1
-- 1.0.0
-- 1.0.2
+- 未知
 
 ## 获取地址
 

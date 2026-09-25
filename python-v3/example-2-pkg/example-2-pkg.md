@@ -1,0 +1,22 @@
+# example-2-pkg
+
+> 标签: Python
+
+## 简介
+
+example-2-pkg - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/example-2-pkg/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install example-2-pkg`
+- 下载页面：https://pypi.org/project/example-2-pkg/#files

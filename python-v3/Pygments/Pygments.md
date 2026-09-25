@@ -1,4 +1,4 @@
-# pygments
+# Pygments
 
 > 标签: 代码高亮, 终端
 
@@ -10,7 +10,7 @@ Pygments is a syntax highlighting package written in Python.
 
 - 官网：https://pygments.org
 - 源码仓库：https://github.com/pygments/pygments
-- PyPI 项目页：https://pypi.org/project/pygments/
+- PyPI 项目页：https://pypi.org/project/Pygments/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ Pygments is a syntax highlighting package written in Python.
 
 ## 获取地址
 
-- pip 安装：`pip install pygments`
-- 下载页面：https://pypi.org/project/pygments/#files
+- pip 安装：`pip install Pygments`
+- 下载页面：https://pypi.org/project/Pygments/#files
 - 运行要求：Python >=3.9

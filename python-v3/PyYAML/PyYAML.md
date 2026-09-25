@@ -1,4 +1,4 @@
-# pyyaml
+# PyYAML
 
 > 标签: YAML, 解析
 
@@ -9,7 +9,7 @@ YAML parser and emitter for Python
 ## 官网
 
 - 官网：https://pyyaml.org/
-- PyPI 项目页：https://pypi.org/project/pyyaml/
+- PyPI 项目页：https://pypi.org/project/PyYAML/
 
 ## 历史版本号
 
@@ -31,6 +31,6 @@ YAML parser and emitter for Python
 
 ## 获取地址
 
-- pip 安装：`pip install pyyaml`
-- 下载页面：https://pypi.org/project/pyyaml/#files
+- pip 安装：`pip install PyYAML`
+- 下载页面：https://pypi.org/project/PyYAML/#files
 - 运行要求：Python >=3.8

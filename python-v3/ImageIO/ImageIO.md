@@ -1,4 +1,4 @@
-# imageio
+# ImageIO
 
 > 标签: IO, 图像
 
@@ -9,7 +9,7 @@ Read and write images and video across all major formats. Supports scientific an
 ## 官网
 
 - 官网：https://pypi.org/project/ImageIO/
-- PyPI 项目页：https://pypi.org/project/imageio/
+- PyPI 项目页：https://pypi.org/project/ImageIO/
 
 ## 历史版本号
 
@@ -31,6 +31,6 @@ Read and write images and video across all major formats. Supports scientific an
 
 ## 获取地址
 
-- pip 安装：`pip install imageio`
-- 下载页面：https://pypi.org/project/imageio/#files
+- pip 安装：`pip install ImageIO`
+- 下载页面：https://pypi.org/project/ImageIO/#files
 - 运行要求：Python >=3.10

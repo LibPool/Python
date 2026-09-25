@@ -1,4 +1,4 @@
-# quart
+# Quart
 
 > 标签: Web框架, 异步
 
@@ -10,7 +10,7 @@ A Python ASGI web framework with the same API as Flask
 
 - 官网：https://pypi.org/project/Quart/
 - 源码仓库：https://github.com/pallets/quart/
-- PyPI 项目页：https://pypi.org/project/quart/
+- PyPI 项目页：https://pypi.org/project/Quart/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ A Python ASGI web framework with the same API as Flask
 
 ## 获取地址
 
-- pip 安装：`pip install quart`
-- 下载页面：https://pypi.org/project/quart/#files
+- pip 安装：`pip install Quart`
+- 下载页面：https://pypi.org/project/Quart/#files
 - 运行要求：Python >=3.13

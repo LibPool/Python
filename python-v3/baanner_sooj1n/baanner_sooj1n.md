@@ -1,0 +1,22 @@
+# baanner_sooj1n
+
+> 标签: Python
+
+## 简介
+
+baanner_sooj1n - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/baanner_sooj1n/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install baanner_sooj1n`
+- 下载页面：https://pypi.org/project/baanner_sooj1n/#files

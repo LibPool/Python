@@ -1,0 +1,22 @@
+# fra
+
+> 标签: Python
+
+## 简介
+
+fra - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/fra/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install fra`
+- 下载页面：https://pypi.org/project/fra/#files

@@ -1,4 +1,4 @@
-# FastAPI
+# fastapi
 
 > 标签: Web框架, 异步
 
@@ -9,7 +9,7 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 ## 官网
 
 - 官网：https://github.com/fastapi/fastapi
-- PyPI 项目页：https://pypi.org/project/FastAPI/
+- PyPI 项目页：https://pypi.org/project/fastapi/
 
 ## 历史版本号
 
@@ -31,6 +31,6 @@ FastAPI framework, high performance, easy to learn, fast to code, ready for prod
 
 ## 获取地址
 
-- pip 安装：`pip install FastAPI`
-- 下载页面：https://pypi.org/project/FastAPI/#files
+- pip 安装：`pip install fastapi`
+- 下载页面：https://pypi.org/project/fastapi/#files
 - 运行要求：Python >=3.10

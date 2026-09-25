@@ -1,0 +1,22 @@
+# pet-debian
+
+> 标签: Python
+
+## 简介
+
+pet-debian - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/pet-debian/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install pet-debian`
+- 下载页面：https://pypi.org/project/pet-debian/#files

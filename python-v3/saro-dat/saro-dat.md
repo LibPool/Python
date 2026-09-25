@@ -1,0 +1,22 @@
+# saro-dat
+
+> 标签: Python
+
+## 简介
+
+saro-dat - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/saro-dat/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install saro-dat`
+- 下载页面：https://pypi.org/project/saro-dat/#files

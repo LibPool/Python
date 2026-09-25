@@ -1,4 +1,4 @@
-# Pillow
+# pillow
 
 > 标签: 图像处理, 图片
 
@@ -10,7 +10,7 @@ Python Imaging Library (fork)
 
 - 官网：https://python-pillow.github.io
 - 源码仓库：https://github.com/python-pillow/Pillow
-- PyPI 项目页：https://pypi.org/project/Pillow/
+- PyPI 项目页：https://pypi.org/project/pillow/
 
 ## 历史版本号
 
@@ -32,6 +32,6 @@ Python Imaging Library (fork)
 
 ## 获取地址
 
-- pip 安装：`pip install Pillow`
-- 下载页面：https://pypi.org/project/Pillow/#files
+- pip 安装：`pip install pillow`
+- 下载页面：https://pypi.org/project/pillow/#files
 - 运行要求：Python >=3.10

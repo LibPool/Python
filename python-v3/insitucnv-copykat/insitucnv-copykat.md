@@ -1,0 +1,22 @@
+# insitucnv-copykat
+
+> 标签: Python
+
+## 简介
+
+insitucnv-copykat - Python library from PyPI（元数据待补充）
+
+## 官网
+
+- PyPI 项目页：https://pypi.org/project/insitucnv-copykat/
+
+## 历史版本号
+
+- 当前版本：未知
+
+- 未知
+
+## 获取地址
+
+- pip 安装：`pip install insitucnv-copykat`
+- 下载页面：https://pypi.org/project/insitucnv-copykat/#files
