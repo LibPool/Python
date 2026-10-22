@@ -1,0 +1,25 @@
+# t8ot
+
+> 标签: Python
+
+## 简介
+
+A modern, ergonomic micro-framework built on top of pyTelegramBotAPI (telebot)
+
+## 官网
+
+- 官网：https://pypi.org/project/t8ot/
+- PyPI 项目页：https://pypi.org/project/t8ot/
+
+## 历史版本号
+
+- 当前版本：0.4.3
+
+- 0.3.0
+- 0.4.3
+
+## 获取地址
+
+- pip 安装：`pip install t8ot`
+- 下载页面：https://pypi.org/project/t8ot/#files
+- 运行要求：Python >=3.10

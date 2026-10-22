@@ -1,0 +1,25 @@
+# magmacrunch-tarot
+
+> 标签: Python
+
+## 简介
+
+French tarot against three computers. Terminal version.
+
+## 官网
+
+- 官网：https://magmacrunch.com/arcade/tarot/
+- PyPI 项目页：https://pypi.org/project/magmacrunch-tarot/
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- pip 安装：`pip install magmacrunch-tarot`
+- 下载页面：https://pypi.org/project/magmacrunch-tarot/#files
+- 运行要求：Python >=3.10

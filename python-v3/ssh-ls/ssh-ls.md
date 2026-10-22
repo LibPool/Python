@@ -1,0 +1,24 @@
+# ssh-ls
+
+> 标签: Python
+
+## 简介
+
+A keyboard-first SSH host picker with config and history discovery
+
+## 官网
+
+- 官网：https://github.com/Moviw/ssh-ls
+- PyPI 项目页：https://pypi.org/project/ssh-ls/
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- pip 安装：`pip install ssh-ls`
+- 下载页面：https://pypi.org/project/ssh-ls/#files
+- 运行要求：Python >=3.11

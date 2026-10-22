@@ -1,0 +1,25 @@
+# cs-object
+
+> 标签: Python
+
+## 简介
+
+Constrained Python authoring and CalculationSourceObject JSON export
+
+## 官网
+
+- 官网：https://github.com/viktar-b/CalculationSourceObject
+- PyPI 项目页：https://pypi.org/project/cs-object/
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- pip 安装：`pip install cs-object`
+- 下载页面：https://pypi.org/project/cs-object/#files
+- 运行要求：Python >=3.11

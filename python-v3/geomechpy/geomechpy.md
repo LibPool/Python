@@ -1,0 +1,29 @@
+# geomechpy
+
+> 标签: Python
+
+## 简介
+
+The geomechpy Python library aims to provide a comprehensive set of functions to build a Geomechanics workflow
+
+## 官网
+
+- 官网：https://pypi.org/project/geomechpy/
+- PyPI 项目页：https://pypi.org/project/geomechpy/
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- pip 安装：`pip install geomechpy`
+- 下载页面：https://pypi.org/project/geomechpy/#files
+- 运行要求：Python >=3.10

@@ -1,0 +1,26 @@
+# goto-fetch
+
+> 标签: Python
+
+## 简介
+
+Pull data from paginated JSON APIs safely, fetch only what changed, and store it for analysis.
+
+## 官网
+
+- 官网：https://pypi.org/project/goto-fetch/
+- 源码仓库：https://github.com/Goto-G-Solutions/goto-fetch
+- PyPI 项目页：https://pypi.org/project/goto-fetch/
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- pip 安装：`pip install goto-fetch`
+- 下载页面：https://pypi.org/project/goto-fetch/#files
+- 运行要求：Python >=3.11

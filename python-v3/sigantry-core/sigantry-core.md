@@ -1,0 +1,24 @@
+# sigantry-core
+
+> 标签: Python
+
+## 简介
+
+Reserved name. This package contains no code; the Sigantry library is published as sigantry.
+
+## 官网
+
+- 官网：https://github.com/Bralabee/sigantry
+- PyPI 项目页：https://pypi.org/project/sigantry-core/
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- pip 安装：`pip install sigantry-core`
+- 下载页面：https://pypi.org/project/sigantry-core/#files
+- 运行要求：Python >=3.8

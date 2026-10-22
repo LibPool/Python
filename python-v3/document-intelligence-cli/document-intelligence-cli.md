@@ -1,0 +1,24 @@
+# document-intelligence-cli
+
+> 标签: Python
+
+## 简介
+
+A CLI tool for extracting structured information from text documents.
+
+## 官网
+
+- 官网：https://pypi.org/project/document-intelligence-cli/
+- PyPI 项目页：https://pypi.org/project/document-intelligence-cli/
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- pip 安装：`pip install document-intelligence-cli`
+- 下载页面：https://pypi.org/project/document-intelligence-cli/#files
+- 运行要求：Python >=3.10

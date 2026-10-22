@@ -1,0 +1,24 @@
+# ncplot7py
+
+> 标签: Python
+
+## 简介
+
+ncplot7py — CNC machine simulation and toolpath generation engine
+
+## 官网
+
+- 官网：https://github.com/d-creations/ncedit7plot
+- PyPI 项目页：https://pypi.org/project/ncplot7py/
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.2.0
+
+## 获取地址
+
+- pip 安装：`pip install ncplot7py`
+- 下载页面：https://pypi.org/project/ncplot7py/#files
+- 运行要求：Python >=3.8

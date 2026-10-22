@@ -1,0 +1,25 @@
+# tokenorama
+
+> 标签: Python
+
+## 简介
+
+Always-on tracker for AI subscription quota. Early placeholder release.
+
+## 官网
+
+- 官网：https://pypi.org/project/tokenorama/
+- 源码仓库：https://github.com/hp2311/tokenorama
+- PyPI 项目页：https://pypi.org/project/tokenorama/
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- pip 安装：`pip install tokenorama`
+- 下载页面：https://pypi.org/project/tokenorama/#files
+- 运行要求：Python >=3.9

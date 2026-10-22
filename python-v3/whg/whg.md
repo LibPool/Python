@@ -1,0 +1,26 @@
+# whg
+
+> 标签: Python
+
+## 简介
+
+WHG Python Developer Toolkit
+
+## 官网
+
+- 官网：https://pypi.org/project/whg/
+- PyPI 项目页：https://pypi.org/project/whg/
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+
+## 获取地址
+
+- pip 安装：`pip install whg`
+- 下载页面：https://pypi.org/project/whg/#files
+- 运行要求：Python >=3.9

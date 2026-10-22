@@ -1,0 +1,24 @@
+# dataforge-sba
+
+> 标签: Python
+
+## 简介
+
+A local-first data science learning toolkit and notebook generator
+
+## 官网
+
+- 官网：https://github.com/SelimBenAli/dataforge
+- PyPI 项目页：https://pypi.org/project/dataforge-sba/
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- pip 安装：`pip install dataforge-sba`
+- 下载页面：https://pypi.org/project/dataforge-sba/#files
+- 运行要求：Python >=3.10

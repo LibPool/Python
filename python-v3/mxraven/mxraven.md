@@ -1,0 +1,25 @@
+# mxraven
+
+> 标签: Python
+
+## 简介
+
+Python SDK for the mxRaven mail runtime: SMTP submission, webhook verification, and recipient feedback.
+
+## 官网
+
+- 官网：https://github.com/synqronlabs/mxraven-py
+- PyPI 项目页：https://pypi.org/project/mxraven/
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- pip 安装：`pip install mxraven`
+- 下载页面：https://pypi.org/project/mxraven/#files
+- 运行要求：Python >=3.11

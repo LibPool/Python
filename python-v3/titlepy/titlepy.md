@@ -1,0 +1,24 @@
+# titlepy
+
+> 标签: Python
+
+## 简介
+
+A lightweight Python library for changing Windows console titles
+
+## 官网
+
+- 官网：https://github.com/SupremeXD4925/TitleLibrary
+- PyPI 项目页：https://pypi.org/project/titlepy/
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- pip 安装：`pip install titlepy`
+- 下载页面：https://pypi.org/project/titlepy/#files
+- 运行要求：Python >=3.6

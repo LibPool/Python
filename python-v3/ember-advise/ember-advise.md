@@ -1,0 +1,37 @@
+# ember-advise
+
+> 标签: Python
+
+## 简介
+
+A gut feeling for coding agents: calibrated advice over MCP from Cloudflare's Clef model, run locally or on a server.
+
+## 官网
+
+- 官网：https://pypi.org/project/ember-advise/
+- 源码仓库：https://github.com/shapeandshare/ember
+- PyPI 项目页：https://pypi.org/project/ember-advise/
+
+## 历史版本号
+
+- 当前版本：0.16.0
+
+- 0.10.3
+- 0.11.0
+- 0.11.1
+- 0.12.0
+- 0.13.0
+- 0.14.0
+- 0.15.0
+- 0.16.0
+- 0.8.0
+- 0.8.1
+- 0.9.0
+- 0.9.1
+- 共 15 个版本，完整清单见 PyPI。
+
+## 获取地址
+
+- pip 安装：`pip install ember-advise`
+- 下载页面：https://pypi.org/project/ember-advise/#files
+- 运行要求：Python <3.13,>=3.12
