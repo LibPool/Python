@@ -4,7 +4,7 @@
 
 - 版本目录：`python-v3`（当前唯一收录的大版本，覆盖 Python 3 生态）
 - 包路径：`python-v3/<包名>/<包名>.md`
-- 当前共收录 919852 个 PyPI 项目，来源为 PyPI simple index 全量枚举。
+- 当前共收录 921259 个 PyPI 项目，来源为 PyPI simple index 全量枚举。
 
 ## 数据源
 
